@@ -1,0 +1,812 @@
+Car_Name,Year,Selling_Price,Present_Price,Driven_kms,Fuel_Type,Selling_type,Transmission,Owner
+Toyota Harrier,2005,22.5,60,70000,Octane,Individual,Automatic,1
+Honda Vezel,2014,19.2,45,57000,Hybrid,Individual,Automatic,1
+Toyota Aqua,2014,12,25,45000,Octane,Individual,Automatic,1
+Toyota Allion,2007,15.2,25,7879,Octane,Individual,Automatic,1
+Toyota Aqua,2014,14.3,30,55000,Octane,Individual,Automatic,1
+Honda Vezel  Non Hybrid,2015,19,25,62000,Octane,Individual,Automatic,1
+Toyota Vitz Jewela,2012,12.6,25,61000,Octane,Individual,Automatic,1
+Toyota Mark II,2003,16.5,25,64189,Octane,Individual,Automatic,1
+Toyota Vitz,2001,5.5,15,50000,CNG,Individual,Automatic,1
+Toyota Probox super GL,2011,8.85,20,56000,Petrol,Individual,Automatic,1
+Toyota Axio Pearl,2013,17.8,25,85000,Petrol,Individual,Automatic,1
+Totota Corolla X,2005,12.5,20,167870,Octane,Individual,Automatic,1
+Toyota Premio F,2002,12.9,20,154000,Petrol,Individual,Automatic,1
+Toyota Corolla G,2003,10.7,20,90000,Octane,Individual,Automatic,1
+Nissan Sunny,2004,5.55,15,104212,Octane,Individual,Automatic,1
+Honda Civic,2008,13,30,130000,Octane,Individual,Automatic,1
+Toyota Allion G plus,2014,26.1,25,39000,Octane,Individual,Automatic,1
+Toyota Rush,2007,15.5,35,35270,Octane,Individual,Automatic,1
+Toyota Axio,2007,12,25,67606,CNG,Individual,Automatic,1
+Nissan Sunny,2004,5.65,15,104212,Octane,Individual,Automatic,1
+Toyota Allion G,2013,18.7,25,60000,Octane,Individual,Automatic,1
+Nissan X   Trail,2015,23.5,30,90000,Octane,Individual,Automatic,1
+Toyota Allion A,2002,12.4,25,100000,CNG,Individual,Automatic,1
+Toyota Corolla X,2005,11.95,20,167870,CNG,Individual,Automatic,1
+Suzuki Swift,2010,3.2,20,80000,Octane,Individual,Manual,1
+DFSK Glory I   Auto,2021,16,20,17000,Octane,Individual,Automatic,1
+Toyota Prius Sports Edition,2013,16,30,76000,Hybrid,Individual,Automatic,1
+Foday Landfort,2015,19.8,42,48000,Diesel,Individual,Manual,1
+Toyota Vitz Jewela Dark Brown,2011,12.21,16,65453,Octane,Individual,Automatic,1
+Honda Vezel Hybrid,2014,20.5,35,57000,Hybrid,Individual,Automatic,1
+Toyota Axio X,2014,17.85,25,62411,Octane,Individual,Automatic,1
+Toyota Harrier Black,2017,59,70,34432,Petrol,Individual,Automatic,1
+Toyota Succeed,2004,7.35,15,120000,CNG,Individual,Automatic,1
+Toyota Premio F,2002,11.2,20,154000,Petrol,Individual,Automatic,1
+Toyota Corolla X,2006,12.8,20,290487,CNG,Individual,Automatic,1
+Toyota Spacio X G Edition,2003,11,16,134000,Octane,Individual,Automatic,1
+Mitsubishi Lancer GLX,2004,7.35,15,197780,Octane,Individual,Automatic,1
+Mazda CXseven Black Color,2006,12,30,95000,Octane,Individual,Automatic,1
+Nissan X Trail Hybrid,2016,34,40,104000,Hybrid,Individual,Automatic,1
+Hyundai Sonata,2012,21,20,35000,Octane,Individual,Automatic,1
+Hyundai Tucson,2016,33,40,34200,Octane,Individual,Automatic,1
+Toyota Premio F,2011,22.5,25,164000,Octane,Individual,Automatic,1
+Toyota Land Cruiser V,2014,170,200,59000,Diesel,Individual,Automatic,1
+Toyota Axio G Push (Non Hybrid,2017,27.5,35,9800,Octane,Individual,Automatic,1
+Mazda Axela,2006,9.8,15,140000,Octane,Individual,Automatic,1
+Nissan X Trail Hybrid  Grey color,2015,26.25,35,51000,Octane,Individual,Automatic,1
+Toyota Fielder WXB,2017,26.5,35,76000,Hybrid,Individual,Automatic,1
+Toyota Aqua G Edition,2013,12.45,25,62000,Hybrid,Individual,Automatic,1
+Toyota Starlet Carat,2013,4.9,25,174389,Octane,Individual,Automatic,1
+Honda Vezel Z Hybrid,2015,20.5,35,85000,Hybrid,Individual,Automatic,1
+Toyota Corolla Axio Silver Color,2014,17.9,30,57031,Octane,Individual,Automatic,1
+Honda Accord,2015,35.5,25,38000,Hybrid,Individual,Automatic,1
+Mitsubishi Outlander,2012,25,25,81000,Octane,Individual,Automatic,1
+Honda Accord,2011,29,30,110000,Octane,Individual,Automatic,1
+Mitsubishi Outlander,2011,20.9,25,56000,Octane,Individual,Automatic,1
+Toyota Aqua Car,2017,18,30,12000,Octane,Individual,Automatic,1
+Toyota Allion  A,2005,14.2,25,95000,Octane,Individual,Automatic,1
+Toyota X Fielder,2010,13.9,25,78000,Petrol,Individual,Automatic,1
+Toyota Axio X,2012,16.8,25,100000,Octane,Individual,Automatic,1
+Toyota X Fielder,2004,11.65,15,87000,Petrol,Individual,Automatic,1
+Toyota Passo,2009,9.9,16,56000,Petrol,Individual,Automatic,1
+Toyota Premio G Edition,2005,13.4,20,100000,Octane,Individual,Automatic,1
+Toyota Noah X,2004,13.2,15,105554,CNG,Individual,Automatic,1
+Toyota X Corolla,2004,11.5,15,200000,Octane,Individual,Automatic,1
+Toyota Aqua,2013,12.6,25,96000,Octane,Individual,Automatic,1
+Toyota Aqua G Push,2013,12.9,25,47000,Octane,Individual,Automatic,1
+Proton Saga,2011,6.2,12,73000,Octane,Individual,Automatic,1
+Toyota Probox White,2004,7,15,90000,Octane,Individual,Automatic,1
+Toyota Corolla,2010,13.99,20,89500,Octane,Individual,Automatic,1
+Toyota Passo,2004,6.39,15,78000,Octane,Individual,Automatic,1
+Honda City New Shape,2000,5.7,8,86500,Octane,Individual,Automatic,1
+Toyota Succeed,2005,8.5,15,93000,CNG,Individual,Automatic,1
+Toyota Corolla,1996,5.6,8,123000,Petrol,Individual,Automatic,1
+BMW seven four zero Li V eight E,2005,33,50,72000,Octane,Individual,Automatic,1
+Mitsubishi Lancer GLX,2011,9.6,20,82000,Octane,Individual,Automatic,1
+Toyota Hiace Super GL,2003,4.3,20,125000,Octane,Individual,Automatic,1
+Honda Grace EX Package,2017,24.75,30,86000,Hybrid,Individual,Automatic,1
+Toyota Premio F  Silver Color,2002,11.5,20,63000,Octane,Individual,Automatic,1
+Toyota Noah KR,2003,8.6,15,200000,Octane,Individual,Automatic,1
+Toyota Hiace Super GL,2005,11.99,25,145000,Octane,Individual,Automatic,1
+Toyota Probox Silver,2003,7.2,15,81000,CNG,Individual,Automatic,1
+Toyota Platz,2000,5.3,8,225000,Petrol,Individual,Automatic,1
+Honda CR V Black,2012,27.8,30,59000,Octane,Individual,Automatic,1
+Maruti Suzuki,2005,2,8,8000,Octane,Individual,Manual,1
+Toyota C   HR G   LED 2017 Red Wine,2017,31.2,40,65000,Hybrid,Individual,Automatic,1
+Toyota C   HR G   LED Package,2017,31.6,45,95000,Octane,Individual,Automatic,1
+Nissan Bluebird Sylphy,2014,19.6,50,73900,Octane,Individual,Automatic,1
+Toyota Premio,2019,35,50,100000,Octane,Individual,Automatic,1
+Nissan X   trail Hybrid Mode Premier,2015,25,40,54000,Hybrid,Individual,Automatic,1
+Toyota Premio F,2020,26.5,60,45000,Octane,Individual,Automatic,1
+Toyota Aqua,2013,14,25,63500,Octane,Individual,Automatic,1
+Toyota Premio F,2002,12,20,154000,Petrol,Individual,Automatic,1
+Toyota Corolla X Fielder,2005,11.8,20,85000,Octane,Individual,Automatic,1
+Honda CRV Blue,2012,25,30,82000,Octane,Individual,Automatic,0
+Toyota Axio X,2013,17.35,25,65000,Octane,Individual,Automatic,1
+Suzuki Maruti,2007,2.6,8,50000,Petrol,Individual,Manual,0
+Toyota Axio X,2011,14.75,22,69000,Octane,Individual,Automatic,1
+Kia Picanto Ex,2006,4.5,12,138016,Octane,Individual,Manual,0
+Nissan X Trail,2011,19.6,50,71000,Octane,Individual,Automatic,1
+Nissan X-Trail ,2015,38.25,70,49000,Octane,Individual,Automatic,1
+Nissan X Trail,2011,21.5,60,121000,Octane,Individual,Automatic,1
+Nissan X Trail,2015,27.7,80,38000,Octane,Individual,Automatic,1
+Nissan Wingroad,2004,7.5,15,98000,Hybrid,Individual,Automatic,0
+Nissan Cefiro,2004,13.5,20,97000,Octane,Individual,Automatic,0
+Nissan Juke G PKG PUSH START,2011,14.3,25,55000,Octane,Individual,Automatic,1
+Nissan Dualis Moon Roof,2007,16.8,20,67000,Octane,Individual,Automatic,0
+Nissan Bluebird OCTANE,2006,13.5,15,61000,Octane,Individual,Automatic,0
+Nissan X-Trail Hard Jeep Duel Ac,2011,22.3,60,38000,Octane,Individual,Automatic,1
+Nissan Bluebird Sylphy Octane drive,2006,13.2,15,73000,Octane,Individual,Automatic,0
+Nissan X-Trail 7 Sitter,2015,35.5,70,43000,Octane,Individual,Automatic,1
+Nissan X-Trail SUNROOF,2011,23.5,60,69000,Hybrid,Individual,Automatic,1
+Nissan X-Trail Hybrid,2015,27.8,80,45000,Octane,Individual,Automatic,1
+Nissan X Trail,2012,23.5,60,51000,Octane,Individual,Automatic,1
+Nissan X-Trail Mode Premier AUTECH,2016,39.5,80,43000,Octane,Individual,Automatic,1
+Nissan X Trail,2017,42.5,80,46000,Octane,Individual,Automatic,1
+Nissan X-Trail SUNROOF,2012,25.5,65,56000,Octane,Individual,Automatic,1
+Nissan X-Trail fresh,2014,30,65,70000,Octane,Individual,Automatic,1
+Nissan X-Trail Hybrid,2016,30.5,80,41000,Octane,Individual,Automatic,1
+Nissan Carryboy,2010,7.2,15,66000,Octane,Individual,Automatic,1
+Nissan Sunny EX,2008,9.3,20,91000,Octane,Individual,Automatic,0
+Nissan X-Trail Hybrid Full Fresh,2016,31.5,80,47000,Octane,Individual,Automatic,1
+Nissan Dualis SHAPE NEW,2008,16.8,25,71000,Octane,Individual,Automatic,0
+Toyota Harrier,2023,60,88,5000,Hybrid,Individual,Automatic,1
+Toyota Prius,2018,27,40,65000,Hybrid,Individual,Automatic,1
+Toyota Fielder X,2018,22.5,35,75000,Octane,Individual,Automatic,1
+Toyota Axio X,2018,23.8,45,69000,Octane,Individual,Automatic,1
+Honda CR V Black  Seat,2018,65,45,31000,Octane,Individual,Automatic,1
+Suzuki Swift VXI,2016,7.8,20,43000,Octane,Individual,Manual,1
+Toyota Probox GL,2006,7.8,15,85000,CNG,Individual,Automatic,1
+Toyota Corolla X Silver,2002,9,15,120000,Octane,Individual,Automatic,1
+Toyota Corolla X,2004,12.1,18,135000,Octane,Individual,Automatic,0
+Nissan Bluebird Silver,2006,11.4,15,44000,Octane,Individual,Automatic,1
+Toyota Premio FL Package,2012,24.5,25,9000,Octane,Individual,Automatic,1
+Toyota Corolla Cross Z Pearl,2021,60,50,8000,Octane,Individual,Automatic,1
+Toyota Corolla Cross Z Black,2021,58,55,19000,Octane,Individual,Automatic,1
+Toyota Corolla Cross,2021,50,20,12000,Octane,Individual,Automatic,1
+Toyota Corolla X,2006,12,22,290487,CNG,Individual,Automatic,1
+Toyota Axio X,2011,15.3,20,152000,Petrol,Individual,Automatic,1
+Mazda Rxeight,2003,10.5,22,57000,Octane,Individual,Manual,1
+Toyota Axio,2011,14.5,45,96000,Octane,Individual,Automatic,1
+Toyota Harrier Premium Pearl,2018,72,20,30000,Octane,Individual,Automatic,0
+Toyota Corolla X Pearl,2005,12.75,15,165000,Octane,Individual,Automatic,1
+Toyota Succeed,2005,7.5,55,189000,Octane,Individual,Automatic,1
+Toyota Corolla Cross Z Hybrid,2021,52,40,8642,Hybrid,Individual,Automatic,1
+Toyota Harrier,2015,54.5,65,60000,Hybrid,Individual,Automatic,1
+Toyota X Corolla,2002,9.2,25,193000,Octane,Individual,Automatic,1
+Ford Ecosport,2015,11,18,130299,Octane,Individual,Automatic,1
+DFSK Glory I   Auto,2021,27.5,35,19000,Octane,Individual,Automatic,1
+Toyota Axio X Hybrid,2016,20.5,40,58000,Hybrid,Individual,Automatic,1
+Toyota C   HR,2017,25,30,1800,Hybrid,Individual,Automatic,1
+Toyota Premio F,2015,26.5,25,96000,Octane,Individual,Automatic,1
+Toyota Aqua,2014,14,15,55000,Octane,Individual,Automatic,1
+Mitsubishi Lancer,2004,7.5,30,50000,Octane,Individual,Automatic,1
+Honda CR V Pearl White,2012,11,18,67000,Octane,Individual,Automatic,1
+Mazda Axela,2004,6.75,20,10000,Octane,Individual,Automatic,1
+Toyota Premio F,2004,13.8,30,120000,Octane,Individual,Automatic,1
+Toyota Premio Pearl Color,2012,23.5,40,60000,CNG,Individual,Automatic,1
+Nissan X Trail Pearl,2016,31.7,45,64000,Hybrid,Individual,Automatic,1
+Toyota Harrier,2019,37.5,45,50000,Octane,Individual,Automatic,1
+Toyota Axio X Pearl Color,2007,12.4,20,88000,Octane,Individual,Automatic,1
+Honda Vezel octane Drive,2014,21.9,35,37521,Octane,Individual,Automatic,1
+Toyota Axio,1500,19.8,25,79000,Octane,Individual,Automatic,1
+Toyota Fielder,2006,11,18,80000,CNG,Individual,Automatic,1
+Toyota Axio Pearl Color,2012,16.2,25,77000,Octane,Individual,Automatic,1
+Toyota Allion Silver Color,2006,15.5,20,121000,Octane,Individual,Automatic,1
+Toyota Axio push,2006,11.7,20,235000,CNG,Individual,Automatic,1
+Toyota rush,2006,12.5,25,56000,Octane,Individual,Automatic,1
+Nissan Sunny EX Saloon,2006,7.5,15,152134,Octane,Individual,Automatic,1
+Toyota Premio F,2012,21.7,25,70000,Octane,Individual,Automatic,1
+Mitsubishi Mirage,2012,10,18,20120,Octane,Individual,Automatic,1
+Toyota Allion A,2004,13.8,18,10000,Octane,Individual,Automatic,1
+Toyota Axio G Package,2018,27.5,35,61000,Hybrid,Individual,Automatic,1
+Toyota Esquire GI Pearl,2018,35.8,45,90000,Hybrid,Individual,Automatic,1
+Toyota Corolla Old Shape,2004,10.5,15,175500,CNG,Individual,Automatic,1
+Haval Hamilton White,2020,26,30,20000,Octane,Individual,Automatic,1
+Toyota Axio,2007,12.95,20,67606,CNG,Individual,Automatic,1
+Honda Vezel Hybrid,2014,21.5,35,75900,Octane,Individual,Automatic,1
+Toyota Allion,2003,12.9,15,136000,Octane,Individual,Automatic,1
+DFSK Glory I   Auto,2021,17.5,18,17000,Octane,Individual,Automatic,1
+Honda Vezel Hybrid,2014,18,35,70810,Octane,Individual,Automatic,1
+Toyota Corolla,2004,12,18,112500,Octane,Individual,Automatic,1
+Toyota Axio X,2010,14.2,22,96000,Octane,Individual,Automatic,1
+Honda Vezel,2014,21.5,35,57000,Hybrid,Individual,Automatic,1
+Toyota Fielder,2013,15.5,30,69000,Hybrid,Individual,Automatic,1
+Toyota Allion,2013,17.99,25,121000,Octane,Individual,Automatic,1
+Audi Q,2017,125,150,10000,Octane,Dealer,Automatic,1
+Toyota Prius S,2019,33,45,78000,Hybrid,Individual,Automatic,1
+Nissan X   Trail,2012,21.5,35,38000,Octane,Individual,Automatic,1
+Toyota Corolla G Edition,2006,13.5,22,78000,Octane,Individual,Automatic,1
+Toyota Voxy Hybrid,2018,30.69,45,71000,Octane,Dealer,Automatic,1
+Toyota Aqua,2013,12.95,25,85103,Hybrid,Individual,Automatic,1
+Toyota Axio G,2013,19,28,11000,CNG,Individual,Automatic,1
+MG HS G Lux,2022,43.5,50,3200,Octane,Individual,Automatic,1
+MG ZS,2021,28.85,35,13200,Octane,Individual,Automatic,1
+Toyota Allion,2013,19.5,25,200000,Octane,Individual,Automatic,1
+Toyota Fielder Hybrid,2013,17.6,30,100000,Octane,Individual,Automatic,1
+Honda Vezel RS Blue,2016,25.5,40,95000,Octane,Individual,Automatic,1
+Honda CR V,2012,27,30,67000,Octane,Individual,Automatic,1
+Toyota Corolla X Pearl Color,2005,12,20,85000,CNG,Individual,Automatic,1
+Toyota Axio Fielder Hybrid,2013,16.8,30,120000,Hybrid,Individual,Automatic,1
+Toyota Passo,2006,7.49,12,89000,Petrol,Individual,Automatic,1
+Ford Ecosport,2015,17,25,78000,Octane,Individual,Automatic,1
+Toyota Axio Red Wine Color,2009,11,20,133500,CNG,Individual,Automatic,1
+Nissan March,2003,5,8,100000,Octane,Individual,Automatic,1
+Toyota Raum,2001,6.5,8,189000,CNG,Individual,Automatic,1
+Toyota Axio,2014,16.8,25,55000,Octane,Individual,Automatic,1
+Toyota Corolla,2004,10.1,18,136000,Octane,Individual,Automatic,1
+Toyota Axio,2006,12.85,18,60000,Petrol,Individual,Automatic,1
+Toyota Aqua,2013,12.5,25,62000,Octane,Individual,Automatic,1
+Toyota Corolla,2002,8.6,15,10000,Petrol,Individual,Automatic,1
+Toyota Corolla X,2003,8.7,18,70000,Octane,Individual,Automatic,1
+Toyota Ractis G,2010,12,18,112000,Octane,Individual,Automatic,1
+Toyota Corolla X,2004,10.8,18,40000,Octane,Individual,Automatic,1
+Mercedes Benz B,2009,20,22,25000,Octane,Individual,Automatic,1
+Toyota Raum,2004,9.85,12,89000,Octane,Individual,Automatic,1
+Toyota Allion G,2008,14.6,20,66000,Octane,Individual,Automatic,1
+Toyota Corolla Axio White Color Car,2014,17.5,25,36000,Octane,Individual,Automatic,1
+Toyota C HR Hybrid,2017,29.5,40,16000,Hybrid,Individual,Automatic,1
+Toyota Probox Succeed,2003,7,12,10000,CNG,Individual,Automatic,1
+Toyota Wish,2012,18,22,77000,Octane,Individual,Automatic,1
+Toyota Axio X Hybrid,2014,16.8,30,35000,Hybrid,Individual,Automatic,1
+Toyota Avanza G,2010,11.5,18,150000,Octane,Individual,Manual,1
+Toyota Axio,2009,13.5,20,133500,Octane,Individual,Automatic,1
+Hyundai Tucson,2012,19.85,25,59000,Octane,Individual,Automatic,1
+Toyota Axio G WXB,2018,31,40,22000,Octane,Individual,Automatic,1
+Mitsubishi Lancer GLX,2010,9.2,18,136000,Octane,Individual,Automatic,1
+Toyota Axio X Auction Sheet White,2017,23.5,30,36000,Octane,Individual,Automatic,1
+Toyota Axio G Hybrid,2016,18.9,35,57300,Hybrid,Individual,Automatic,1
+Honda Vezel Octane S Package,2014,22.9,35,39500,Octane,Individual,Automatic,1
+Toyota Premio F Package,2017,32,40,20000,Octane,Individual,Automatic,1
+Toyota C HR Dual Tone,2017,32.4,40,19000,Octane,Individual,Automatic,1
+Toyota Esquire GI,2018,41,45,21000,Octane,Individual,Automatic,1
+Toyota G Plus Pearl,2017,38.8,40,30000,Octane,Individual,Automatic,1
+Toyota Corolla Cross Z Pearl,2021,58,50,22000,Octane,Individual,Automatic,1
+Toyota Axio X Non Hybrid Octane,2017,22.7,35,27000,Octane,Individual,Automatic,1
+Toyota Harrier,2014,50.5,40,61000,Diesel,Individual,Automatic,1
+Toyota Corolla Cross Z,2021,60,50,19000,Octane,Individual,Automatic,1
+Toyota Land Cruiser Prado TX Limited,2019,149,2,31000,Octane,Individual,Automatic,1
+Toyota Premio F EX,2018,33.9,45,25000,Octane,Individual,Automatic,1
+Nissan X Trail Red Color,2017,37.5,40,64000,Hybrid,Individual,Automatic,1
+Toyota Corolla Cross,2021,47,50,29000,Octane,Individual,Automatic,1
+Toyota Fielder X Hybrid,2017,20.5,35,36000,Octane,Individual,Automatic,1
+Toyota Axio X Addition,2017,21.5,35,41000,Octane,Individual,Automatic,1
+Nissan X Trail Hybrid,2017,40.5,45,39000,Octane,Individual,Automatic,1
+Toyota Premio F,2004,13.85,20,29000,Octane,Individual,Automatic,1
+Toyota Allion,2012,21.5,25,65000,Octane,Individual,Automatic,1
+Toyota Allion,2004,14.2,18,42000,Octane,Individual,Automatic,1
+Toyota Axio Hybrid,2016,18,35,62000,Hybrid,Individual,Automatic,1
+Toyota Corolla G,2006,10.5,22,79000,Octane,Individual,Automatic,1
+BMW Saloon,2003,16,20,18000,Octane,Individual,Automatic,1
+Toyota Harrier Premium Pearl Color,2018,26,50,30000,Octane,Individual,Automatic,1
+Toyota IST,2004,8.8,15,146200,Octane,Individual,Automatic,1
+Toyota Axio Hybrid,2015,19,30,56000,Octane,Individual,Automatic,1
+Toyota Harrier Premium Advance Sunroof,2014,35,40,37000,Octane,Individual,Automatic,1
+Toyota Axio X,2007,12.8,20,170000,CNG,Individual,Automatic,1
+Toyota Avanza Black Color,2010,12.9,20,100000,Octane,Individual,Automatic,1
+Proton Exora,2011,9.5,15,110000,Octane,Individual,Automatic,1
+Toyota Prius Alpha SL,2014,21,35,99500,Hybrid,Individual,Automatic,1
+Toyota Harrier,2015,35,45,60000,Octane,Individual,Automatic,1
+Hyundai Elantra GLS,2012,16,20,49000,Octane,Individual,Automatic,1
+Toyota Allion A,2008,18,25,105000,Octane,Individual,Automatic,1
+Toyota Premio F Pearl color,2013,25,30,93000,Octane,Individual,Automatic,1
+Toyota Corolla,1995,5,8,200000,Octane,Individual,Automatic,1
+Toyota Corolla X Silver Color,2005,12.05,20,120755,CNG,Individual,Automatic,1
+Nissan X Trail Hybrid,2015,28.1,35,51000,Octane,Individual,Automatic,1
+Toyota Fielder Hybrid,2014,17.5,30,92000,Hybrid,Individual,Automatic,1
+Toyota Harrier Premium,2018,35,50,23500,Octane,Individual,Automatic,1
+Mitsubishi Outlander Roadest,2010,24,25,65000,Octane,Individual,Automatic,1
+Honda Vezel Hybrid,2013,20.2,30,99600,Octane,Individual,Automatic,1
+Nissan X Trail Hybrid Fuel Model,2015,27,35,60000,Octane,Individual,Automatic,1
+Nissan X Trail Hybrid Pearl color,2015,30,40,58000,Octane,Individual,Automatic,1
+Toyota Axio G,2018,24.5,35,81309,Hybrid,Individual,Automatic,1
+Honda Vezel Hybrid Z Red Color,2017,31,45,85000,Hybrid,Individual,Automatic,1
+Toyota Axio Hybrid,2015,18.35,30,56000,Hybrid,Individual,Automatic,1
+Nissan Juke Series,2011,13.5,20,35500,Octane,Individual,Automatic,1
+Honda Vezel Z,2014,21.5,30,65000,Octane,Individual,Automatic,1
+Nissan Teana,2004,12.6,15,12100,Octane,Individual,Automatic,1
+Toyota Allion,2003,13.99,15,120000,Petrol,Individual,Automatic,1
+Toyota X Corolla Silver,2004,11,20,75000,Petrol,Individual,Automatic,1
+Toyota Premio F,2010,20.5,25,74000,CNG,Individual,Automatic,1
+Toyota Axio,2013,16.95,22,47000,Octane,Individual,Automatic,1
+Mazda Axela,2009,13.5,20,32000,Octane,Individual,Automatic,1
+Toyota Fielder New Shape,2014,17.5,30,56000,Octane,Individual,Automatic,1
+Toyota Axio G Edition,2011,15.5,25,72344,CNG,Individual,Automatic,1
+Toyota C HR G Hybrid,2017,30.75,40,54639,Hybrid,Individual,Automatic,1
+Toyota Ractis G Edition,2011,14.45,20,88000,Octane,Individual,Automatic,1
+Honda Grace EX Mica Blue Color,2018,20.5,25,71000,Octane,Individual,Automatic,1
+Toyota Axio X Grade Silver Car,2015,22.5,30,65400,Octane,Individual,Automatic,1
+Toyota Prius S Safety,2018,31.8,40,14000,Hybrid,Individual,Automatic,1
+Toyota Hiace Super GL,2018,40.5,45,36000,Octane,Individual,Automatic,1
+Mazda Axela,2012,14.9,25,76000,Octane,Individual,Automatic,1
+Range Rover Evoque,2012,63,90,23000,Octane,Individual,Automatic,1
+Nissan X Trail,2012,23,35,38000,Octane,Individual,Automatic,1
+Toyota Yaris Cross,2022,45.5,40,2000,Octane,Individual,Automatic,1
+Haval H,2019,53,70,67000,Octane,Individual,Automatic,1
+Toyota Corolla Cross,2022,43,45,7500,Octane,Individual,Automatic,1
+Toyota Corolla Cross Z,2022,44,50,9000,Octane,Individual,Automatic,1
+Nissan X Trail Hybrid,2016,33.5,40,104000,Octane,Individual,Automatic,1
+Mitsubishi Outlander Roadest,2011,24.5,30,26000,Octane,Individual,Automatic,1
+Nissan X Trail New Shape,2010,19.9,30,71000,Octane,Individual,Automatic,1
+Toyota Axio X Hybrid,2015,17.9,30,65000,Hybrid,Individual,Automatic,1
+Toyota Allion A,2007,17.15,25,56000,Octane,Individual,Automatic,1
+Toyota Succeed,2004,7.3,15,121000,Octane,Individual,Automatic,1
+Toyota Corolla X Edition,2006,12.45,20,86000,Octane,Individual,Automatic,1
+Toyota Probox,2006,7,15,98700,Octane,Individual,Automatic,1
+Toyota Aqua Hybrid Car,2014,16,25,76500,Hybrid,Individual,Automatic,1
+Toyota Probox M Crop,2003,7.65,12,85000,CNG,Individual,Automatic,1
+Toyota X Fielder,2005,11.5,18,94000,CNG,Individual,Automatic,1
+Toyota Probox Dx,2005,7.65,15,80000,CNG,Individual,Automatic,1
+Toyota X Corolla,2003,12.5,18,150000,Petrol,Individual,Automatic,1
+Toyota Allion G,2005,14.5,20,110000,Octane,Individual,Automatic,1
+Toyota Corolla AE,1993,5.8,8,85000,Octane,Individual,Automatic,0
+Toyota X Corolla White Color,2002,9.45,18,131000,Octane,Individual,Automatic,1
+Toyota LiteAce GL,2010,6.9,20,58000,Octane,Individual,Automatic,1
+Toyota Premio G,2006,15.8,22,80000,Octane,Individual,Automatic,1
+Toyota X Corolla,2001,8.95,15,97000,Octane,Individual,Automatic,1
+Toyota Carina GT,1998,6.9,12,292000,CNG,Individual,Automatic,1
+Toyota bB G,2011,13.5,20,70000,Octane,Individual,Automatic,0
+Toyota X Corolla,2003,9.5,18,89000,Octane,Individual,Automatic,1
+Toyota X Corolla,2006,11.9,20,96000,Octane,Individual,Automatic,1
+Toyota Passo Silver,2005,6.5,12,86000,Octane,Individual,Automatic,1
+Toyota Spacio X,2004,10.95,15,111000,Octane,Individual,Automatic,0
+Nissan Cefiro G,2003,8.2,15,180000,CNG,Individual,Automatic,0
+Toyota Prado,2000,8.99,50,86485,Octane,Individual,Manual,0
+Toyota Axio Fielder,2008,12.95,20,82000,CNG,Individual,Automatic,1
+Toyota Axio Model,2010,14.55,20,65000,Octane,Individual,Automatic,1
+Toyota Spacio X,2002,8.2,12,112100,Octane,Individual,Automatic,1
+Nissan X Trail Gray Metallic Color,2016,34,40,98000,Octane,Individual,Automatic,1
+Toyota C HR G LED Wine Red,2018,36,40,36000,Hybrid,Individual,Automatic,1
+Mitsubishi Xpander,2017,24,30,35000,Octane,Individual,Automatic,1
+Toyota Allion G,2015,26.5,30,51000,Octane,Individual,Automatic,1
+Nissan Bluebird,2007,11.5,18,76000,Octane,Individual,Automatic,1
+Toyota Harrier Z,2020,45,60,27000,Hybrid,Individual,Automatic,1
+Toyota Ractis G Edition,2006,15,18,102387,Petrol,Individual,Automatic,1
+Toyota Carina TI,2000,8.2,12,89000,Octane,Individual,Automatic,1
+Toyota Corolla Axio,2007,12.5,20,126000,Octane,Individual,Automatic,1
+Mitsubishi Pajero,2001,7,20,150000,CNG,Individual,Manual,1
+Toyota Corolla,2004,10.8,18,105600,Octane,Individual,Automatic,1
+Nissan X Trail Hybrid Bronze Color,2016,34.5,40,68000,Hybrid,Individual,Automatic,1
+Toyota Harrier,2016,35.5,50,52000,Octane,Individual,Automatic,1
+Toyota LiteAce GLX,1996,5.5,12,122027,Petrol,Individual,Automatic,1
+Nissan X Trail Hybrid Pearl Color Car,2015,29,40,109000,Octane,Individual,Automatic,1
+Nissan X Trail Black,2018,39,45,80000,Hybrid,Individual,Automatic,1
+Mitsubishi Pajero Exceed V,2006,19,20,139000,Octane,Individual,Automatic,1
+Toyota Esquire Mica Car,2018,44,45,39000,Octane,Individual,Automatic,1
+Volkswagen Passat,2014,26.5,30,26000,Octane,Individual,Automatic,1
+Mitsubishi Outlander Gray,2008,17,22,178000,Octane,Individual,Automatic,1
+Mitsubishi ASX,2005,8.5,20,178000,Octane,Individual,Automatic,1
+Toyota Esquire,2018,44,50,40000,Octane,Dealer,Automatic,1
+Toyota Hiace,2002,7,20,169000,Octane,Individual,Automatic,1
+Mitsubishi Outlander,2017,39.5,45,78000,Octane,Individual,Automatic,1
+Toyota Axio X,2017,24.5,30,55000,Hybrid,Individual,Automatic,1
+Toyota Aqua Silver,2017,17.5,25,61000,Hybrid,Individual,Automatic,1
+Honda CR V,2018,47.5,55,59000,Hybrid,Dealer,Automatic,1
+Toyota Fielder G,2017,21.8,35,35000,Octane,Individual,Automatic,1
+Toyota Rush,2010,15.7,20,89000,CNG,Individual,Automatic,1
+Toyota Voxy G Hybrid,2017,25,45,31000,Octane,Dealer,Automatic,1
+Toyota Raum,2005,9.1,15,120000,Octane,Individual,Automatic,1
+Toyota Cross Z Hybrid,2021,45.8,55,14000,Octane,Individual,Automatic,1
+Toyota Prius S Pearl Car,2017,26.8,35,34000,Hybrid,Individual,Automatic,1
+Toyota Esquire Gi Premium Pearl,2017,35.5,50,67000,Hybrid,Individual,Automatic,1
+Toyota Prius S,2017,28.8,35,42000,Hybrid,Individual,Automatic,1
+Toyota Axio X Auto Transmission,2017,20.5,30,36500,Octane,Individual,Automatic,1
+Toyota Noah X Hybrid,2017,27.6,45,55000,Octane,Individual,Automatic,1
+Toyota Axio G White,2017,23.5,30,56000,Hybrid,Dealer,Automatic,1
+Toyota Harrier Progress,2017,45,55,61000,Octane,Individual,Automatic,1
+Toyota Harrier Advance Premium,2017,45.5,55,39000,Octane,Individual,Automatic,1
+Toyota Hiace Grand Cabin,2017,26.5,35,45000,Octane,Individual,Automatic,1
+Toyota Axio G,2017,19.5,30,36700,Octane,Individual,Automatic,1
+Toyota Axio X Silver,2017,20.5,30,32000,Octane,Individual,Automatic,1
+Toyota Axio X White,2017,20.7,30,29500,Octane,Individual,Automatic,1
+Honda CR V Pearl,2018,47,55,36900,Octane,Individual,Automatic,1
+Toyota Premio FL Pearl Car,2018,36.7,50,14000,Octane,Individual,Automatic,1
+Toyota Allion A Car,2019,21,35,22000,Octane,Individual,Automatic,1
+Toyota Voxy ZS Mica Blue,2017,22.6,45,31000,Hybrid,Individual,Automatic,1
+Toyota Axio X Non Hybrid Car,2017,21.6,30,45000,Octane,Individual,Automatic,1
+Toyota Prius S Package,2017,19.4,35,51000,Octane,Dealer,Automatic,1
+Toyota Voxy V Hybrid,2018,22.8,45,43000,Octane,Individual,Automatic,1
+Toyota Fielder X Hybrid,2017,18.95,35,47000,Hybrid,Individual,Automatic,1
+Toyota Premio F EX Pearl,2020,34.5,45,27500,Octane,Individual,Automatic,0
+Toyota Voxy V Hybrid,2017,20.8,45,22000,Petrol,Individual,Automatic,1
+Toyota Allion A fifteen,2017,22.75,35,16000,Octane,Individual,Automatic,1
+Toyota Hiace Super GL Pearl,2017,29.55,35,21000,Octane,Individual,Automatic,1
+Honda C RV Black Car,2019,48.5,55,11000,Octane,Individual,Automatic,1
+Toyota Harrier Hybrid New Shape,2017,41,55,17000,Hybrid,Individual,Automatic,1
+Toyota Axio X All Auto Car,2017,23.9,30,13000,Octane,Individual,Automatic,1
+Toyota Hiace Grand Cabin Silver Car,2017,29.5,35,33000,Octane,Individual,Automatic,1
+Honda Civic FC Car,2017,29,35,89000,Octane,Individual,Automatic,1
+Honda Civic FC Car,2018,37.05,40,59000,Octane,Individual,Automatic,1
+Toyota Crown Advance RS,2018,59,65,40000,Hybrid,Individual,Automatic,1
+Toyota Voxy V Hybrid ,2018,22.18,45,45000,Octane,Individual,Automatic,1
+Nissan X Trail Blue New Shape,2017,31,45,36000,Octane,Individual,Automatic,1
+Toyota Harrier Black Color,2016,43.5,50,29000,CNG,Individual,Automatic,1
+Nissan X Trail Hybrid,2018,44.5,50,102000,Hybrid,Individual,Automatic,1
+Toyota Allion A Car,2019,24,35,32000,Octane,Individual,Automatic,1
+Toyota Allion G Plus,2016,12.5,35,100000,Octane,Individual,Automatic,1
+Toyota Premio F EX Pearl Color,2002,14.2,40,95000,Octane,Individual,Automatic,0
+Nissan X Trail,2012,22.7,60,60000,Hybrid,Individual,Automatic,1
+Nissan X Trail,2013,23.5,65,63000,Hybrid,Individual,Automatic,1
+Nissan Sylphy Bluebird,2003,8.5,15,120000,Octane,Individual,Automatic,0
+Nissan Juke Super Fresh,2012,15.5,25,115000,Octane,Individual,Automatic,1
+Nissan Carryboy,2006,8.8,12,95000,Octane,Individual,Automatic,0
+Nissan X Trail,2013,28.9,65,69000,Hybrid,Individual,Automatic,1
+Nissan X-Trail super fresh,2015,33.7,70,39000,Hybrid,Individual,Automatic,1
+Nissan X Trail,2010,22,55,79000,Octane,Individual,Automatic,1
+Nissan Juke PUSH,2013,16.3,25,131000,Octane,Individual,Automatic,1
+Nissan X Trail ,2015,38.25,70,39000,Octane,Individual,Automatic,1
+Nissan X Trail ,2015,28.9,80,43000,Octane,Individual,Automatic,1
+Nissan X Trail,2015,28.8,70,46000,Octane,Individual,Automatic,1
+Nissan X Trail,2017,43.5,80,41000,Octane,Individual,Automatic,1
+Nissan Dualis ,2008,16.8,25,36000,Octane,Individual,Automatic,0
+Nissan X Trail,2012,23.5,60,51000,Octane,Individual,Automatic,1
+Nissan X-Trail Mode Premier AUTECH,2016,39.5,80,43000,Octane,Individual,Automatic,1
+Nissan X Trail,2017,42.5,80,46000,Octane,Individual,Automatic,1
+Nissan X-Trail SUNROOF,2012,25.5,65,56000,Octane,Individual,Automatic,1
+Nissan X-Trail fresh,2014,30,65,70000,Octane,Individual,Automatic,1
+Nissan X-Trail Hybrid,2016,30.5,80,41000,Octane,Individual,Automatic,1
+Nissan Carryboy,2010,7.2,15,66000,Octane,Individual,Automatic,1
+Nissan Sunny EX,2008,9.3,20,91000,Octane,Individual,Automatic,0
+Nissan X-Trail Hybrid Full Fresh,2016,31.5,80,47000,Octane,Individual,Automatic,1
+Nissan Dualis SHAPE NEW,2008,16.8,25,71000,Octane,Individual,Automatic,0
+Tata Indigo Ecs,2013,3.1,12,15000,Diesel,Individual,Manual,0
+Toyota Axio,2013,17.5,25,77000,Octane,Individual,Automatic,1
+Toyota Saloon Modify X Corolla,2016,16.5,20,48000,CNG,Individual,Automatic,1
+Toyota Corolla 100 Wagon,2000,3.1,10,210000,Octane,Individual,Automatic,0
+Toyota Corolla X,2006,11.6,20,140000,Octane,Individual,Automatic,1
+Toyota Fielder,2013,16,30,107000,Octane,Individual,Automatic,1
+Toyota Ractis,2005,11,15,110000,Petrol,Individual,Automatic,1
+Honda Vezel,2014,19,35,57000,Hybrid,Individual,Automatic,1
+Toyota Allion Silver,2007,13.8,25,198000,Octane,Individual,Automatic,1
+Toyota Probox,2005,7.2,15,92000,Petrol,Individual,Automatic,0
+Toyota Probox,2004,6.25,15,90000,Octane,Individual,Automatic,0
+Honda Vezel Hybrid,2014,17.8,35,57000,Hybrid,Individual,Automatic,1
+Honda Airwave,2006,13.5,18,80000,Octane,Individual,Automatic,1
+Toyota Allion A,2003,12.5,18,300000,Octane,Individual,Automatic,1
+Toyota Corolla G,2006,13.3,20,79000,Octane,Individual,Automatic,1
+Suzuki Maruti,2007,2.5,8,50000,Petrol,Individual,Manual,0
+Honda Grace EX Hybrid,2015,21.5,30,87000,Octane,Individual,Automatic,0
+Toyota Corolla X,2005,12.9,20,167870,Octane,Individual,Automatic,1
+Mitsubishi Lancer GLX Metallic Red,2010,8.75,18,136000,Octane,Individual,Automatic,0
+Toyota TI Carina,2000,7.8,10,156000,Octane,Individual,Automatic,1
+Toyota Axio X Limited,2007,12.75,22,98000,CNG,Individual,Automatic,1
+Nissan X   Trail Hard Jeep,2011,22,25,63000,Octane,Individual,Automatic,1
+Toyota Axio X,2012,16.75,25,100000,Octane,Individual,Automatic,1
+Toyota Noah,2018,39,45,45000,Octane,Individual,Automatic,1
+Toyota X Corolla,2006,10.9,20,90000,Octane,Individual,Automatic,1
+Toyota Passo Silver,2005,5.5,12,89000,Octane,Individual,Automatic,1
+Toyota Spacio X,2004,11.95,15,121000,Octane,Individual,Automatic,0
+Nissan Cefiro G,2003,9.2,15,190000,CNG,Individual,Automatic,0
+Toyota Prado,2000,8.09,50,96485,Octane,Individual,Manual,0
+Toyota Axio Fielder,2008,10.95,20,85000,CNG,Individual,Automatic,1
+Toyota Axio Model,2010,12.55,20,75000,Octane,Individual,Automatic,1
+Toyota Spacio X,2002,7.2,12,122000,Octane,Individual,Automatic,1
+Nissan X Trail Gray Metallic Color,2016,32,40,88000,Octane,Individual,Automatic,1
+Toyota C HR G LED Wine Red,2018,35,40,34000,Hybrid,Individual,Automatic,1
+Range Rover Sport P4,2018,195,400,10400,Diesel,Individual,Automatic,0
+Range Rover Sport P4,2019,195,450,10300,Diesel,Individual,Automatic,0
+Range Rover Vogue Autobiography,2019,270,500,7000,Diesel,Individual,Automatic,0
+Range Rover Sport P4,2018,189,400,7000,Octane,Individual,Automatic,1
+Range Rover Sports,2017,140,350,40000,Octane,Individual,Automatic,1
+Range Rover Evoque S14,2013,89,400,20090,Diesel,Individual,Automatic,1
+Range Rover Sport P400e,2018,179,400,1200,Diesel,Individual,Automatic,0
+Range Rover Evouque,2020,119,300,13000,Octane,Individual,Automatic,0
+Range Rover black,2013,65,250,63359,Octane,Individual,Automatic,0
+Range Rover black colour,2007,90,150,29000,Diesel,Individual,Automatic,1
+Range Rover black colour ,2007,90,150,37000,Octane,Individual,Automatic,0
+Range Rover Vogue Sport,2018,190,450,9000,Octane,Individual,Automatic,0
+Range Rover Sport P4,2022,255,400,6000,Diesel,Individual,Automatic,1
+Range Rover Sports P4,2019,225,450,8582,Diesel,Individual,Automatic,1
+Range Rover black colour,2006,90,1200,39000,Diesel,Individual,Automatic,0
+Range Rover Evoque P3,2022,145,300,5000,Diesel,Individual,Automatic,0
+Range Rover Vogue Aut,2017,210,500,14000,Diesel,Individual,Automatic,1
+Range Rover Sport Aut,2020,225,400,2500,Diesel,Individual,Automatic,1
+Range Rover Evoque Au,2022,145,400,5000,Diesel,Individual,Automatic,1
+Mazda Axela Pro Active,2017,30.5,38,24223,Octane,Individual,Automatic,1
+Mazda Axela Ae pkg,2018,29.2,42,30800,Octane,Individual,Automatic,1
+Mazda Axela Pctive,2014,21.9,32,106000,Octane,Individual,Automatic,1
+Mazda RX-8 rx,2003,12,18,80000,Octane,Individual,Automatic,1
+Mazda Axelapackage,2017,25.8,40,55300,Octane,Individual,Automatic,1
+Mazda Axelaxelaa,2010,13.8,28,80000,Octane,Individual,Automatic,1
+Mazda Axela drive,2016,24.3,42,36000,Octane,Individual,Automatic,1
+Mazda Axela Pro L-active,2018,33,45,59000,Octane,Individual,Automatic,1
+Mazda MX-5kage,2019,38,70,30000,Octane,Individual,Automatic,1
+Mazda Axelactive,2019,28,55,45000,Octane,Individual,Automatic,1
+Mazda 3 15ng,2019,35,55,35000,Octane,Individual,Automatic,1
+Mazda Axela fresh,2009,14.7,30,71578,Octane,Individual,Automatic,1
+Mazda Axela A,2013,18.5,35,38000,Octane,Individual,Automatic,1
+Mazda Axela (Pro L (pro-active,2018,33,48,59795,Octane,Individual,Automatic,1
+Mazda Axelar,2019,30,55,29100,Octane,Individual,Automatic,1
+Mazda MX-5 mx,2018,45.5,65,35476,Octane,Individual,Manual,1
+Mazda Axelaro active,2018,28.5,55,47000,Octane,Individual,Automatic,1
+Mazda Axela,2019,17.5,60,17528,Octane,Individual,Automatic,1
+Mazda Axela wine,2019,29,55,35100,Octane,Individual,Automatic,1
+Mazda Axela Stive hatchback,2014,21.5,38,42000,Octane,Individual,Manual,1
+Mazda Axela Aed,2011,15.5,40,61522,Octane,Individual,Manual,1
+Mazda MX-5er s special,2019,42,70,23871,Octane,Individual,Automatic,1
+Mazda Axela start,2012,14.6,38,65000,Octane,Individual,Manual,1
+Mazda CX-3 cx,2015,26.5,50,45000,Octane,Individual,Automatic,1
+Mazda CX-7 cx,2006,17.3,28,50173,Octane,Individual,Automatic,1
+Mazda Axelative,2018,29.5,45,29214,Octane,Individual,Automatic,1
+Mazda Axela Ang,2018,28,48,40752,Octane,Individual,Automatic,1
+Mazda Axela,2019,30.6,60,17527,Octane,Individual,Automatic,1
+Mazda 3 S uring,2021,46,60,14000,Octane,Individual,Automatic,1
+Mazda S TU20,2020,44,57,39000,Octane,Individual,Automatic,1
+Mazda MX-5er s special,2018,42,65,14000,Octane,Individual,Manual,1
+Mazda Axela,2014,20.5,35,81000,Octane,Individual,Automatic,1
+Mazda Axela,2003,75,25,145000,Octane,Individual,Automatic,1
+Mazda Axela Ssky active,2011,13.5,38,53000,Octane,Individual,Automatic,1
+Mazda Axela A18,2018,29.1,45,48635,Octane,Individual,Manual,1
+Mazda Axela G A ,2011,16.2,40,61455,Octane,Individual,Manual,1
+Mazda Axela olour,2011,14,40,52000,Octane,Individual,Automatic,1
+Mazda Ss pkg,2019,36,70,111111,Octane,Individual,Automatic,1
+Mazda Demio G D ,2006,96,25,77453,Octane,Individual,Automatic,1
+Mazda Axela ctive,2016,24.3,42,50000,Octane,Individual,Automatic,1
+Mazda Axela,2004,65,30,100000,Octane,Individual,Automatic,1
+Mazda MX-5 Convertible.Miata,2002,26.5,25,45388,Octane,Individual,Automatic,1
+Mazda Demio Ded ,2006,96,28,77000,Octane,Individual,Manual,1
+Mazda Axela,2009,14.5,32,71540,Octane,Individual,Manual,1
+Mercedes-Benz V-Class V220d,2021,149,200,300,Diesel,Individual,Automatic,0
+Mercedes-Benz C-Class black Metallic,2018,69.9,90,12000,Octane,Dealer,Automatic,1
+Mercedes-Benz B-Class,2006,18.48,25,25833,Octane,Individual,Automatic,1
+Mercedes-Benz B-Class MoonRoof,2010,25.5,35,48000,Petrol,Individual,Automatic,1
+Mercedes-Benz GLS-Class GLS 450,2021,272,250,17892,Octane,Dealer,Automatic,1
+Mercedes-Benz E-Class E200,1996,18.5,20,87542,Octane,Individual,Automatic,1
+Mercedes-Benz,2009,32,40,42487,Petrol,Individual,Automatic,1
+Mercedes-Benz S-Class S320 PKG,2001,20.5,25,23000,Octane,Dealer,Automatic,1
+Mercedes-Benz B-Class,2006,18.49,25,25368,Hybrid,Dealer,Automatic,1
+"Mercedes-Benz S-Class S350D.AMG,PKG",2015,160,150,8000,Hybrid,Dealer,Automatic,1
+Mercedes-Benz GLE-Class Gle450.4Matic.AMG,2020,195,270,8000,Hybrid,Dealer,Automatic,1
+"Mercedes-Benz GLS-Class Gls450,4Matic,7Seats",2021,275,250,11369,Octane,Individual,Automatic,1
+Mercedes-Benz GLB 200 Luxury.Crossover.Suv,2021,98,250,9300,Hybrid,Dealer,Automatic,1
+"Mercedes-Benz GLS-Class GLS450.DIAMOND,AMG",2021,200,250,9000,Hybrid,Dealer,Automatic,1
+Mercedes-Benz C200 blu colours,2004,45,30,40000,Octane,Individual,Automatic,1
+Mercedes-Benz E 250 silvar colour,2004,50,30,35000,Octane,Individual,Automatic,1
+Mercedes-Benz C-Class C180 Kompressor,2007,33,40,21000,Octane,Individual,Automatic,1
+Mercedes-Benz E-Class,2001,16.5,25,75000,Diesel,Individual,Automatic,1
+Mercedes-Benz S-Class,2002,27.5,30,40000,Diesel,Individual,Automatic,1
+Mercedes-Benz GLS-Class,2021,250,400,12000,Hybrid,Individual,Automatic,1
+Mercedes-Benz B-Class,2006,18.52,25,25688,Petrol,Individual,Automatic,1
+Mercedes-Benz E 250 AMG CABRIOLET,2011,65,50,17000,Petrol,Individual,Automatic,1
+Mercedes-Benz B-Class,2006,18.5,25,26588,Petrol,Individual,Automatic,1
+Mercedes-Benz E 250 AMG.AVANTGARDE,2010,47,50,41000,Octane,Dealer,Automatic,1
+Mercedes-Benz E 250 chilbar colour,2003,26,35,38000,Octane,Individual,Automatic,1
+Mercedes-Benz C200 green colour,2003,27,35,35000,Octane,Individual,Automatic,1
+Mercedes-Benz GLE-Class GLE 4MATIC AMG,2020,186,270,8500,Petrol,Individual,Automatic,1
+Mercedes-Benz CL-Class Compressor Spors,2009,21.8,80,39000,Petrol,Individual,Automatic,1
+Mercedes-Benz GLS-Class Gls450.FULL.LOADED,2021,205,250,12000,Petrol,Individual,Automatic,1
+Mercedes-Benz GLB 200 Premium 7Seater,2021,105,250,11000,Petrol,Individual,Automatic,1
+"Mercedes-Benz GLS-Class 450,4Matic,7Seat",2021,195,250,7000,Petrol,Dealer,Automatic,1
+Mercedes-Benz GLS-Class Gls450 Luxurious Suv,2021,215,250,17000,Petrol,Individual,Automatic,1
+Mercedes-Benz GLB 200 Premium Plus AMG,2021,105,270,9000,Petrol,Dealer,Automatic,1
+Mercedes-Benz E-Class,2003,29.3,35,40000,Octane,Individual,Automatic,1
+Mercedes-Benz S-Class All original,2001,13.4,30,70000,Octane,Individual,Automatic,1
+Mercedes-Benz GLA-Class 180 Mini SUV,2017,50,60,29000,Octane,Individual,Automatic,1
+Mercedes-Benz C-Class C180 KOMPRESSOR,2009,33.7,45,45698,Octane,Individual,Automatic,1
+Mercedes-Benz GLS-Class,2021,221,250,29500,Octane,Dealer,Automatic,1
+Hyundai H1 MVP,2011,12.7,25,75000,CNG,Individual,Automatic,1
+Hyundai H1 MICROBUS,2011,11.8,25,50997,Octane,Individual,Automatic,1
+"Hyundai H1 (Sunroof,12 Seat)",2017,34,50,30076,Octane,Individual,Automatic,1
+Hyundai H1 G,2011,13.5,25,73300,Petrol,Individual,Automatic,1
+Hyundai H1 12 Passenger Octane,2012,15.8,30,44856,Octane,Individual,Automatic,1
+Hyundai H1 Diesel,2012,14.5,30,38368,Diesel,Individual,Automatic,1
+Hyundai H1 Diesel,2011,10.5,28,90000,Diesel,Individual,Automatic,1
+Hyundai H1 G,2011,13.45,25,74300,Octane,Individual,Automatic,1
+Hyundai H1,2012,11,30,135000,Octane,Individual,Automatic,1
+Hyundai H1 .,2011,10.9,25,55411,Octane,Individual,Automatic,1
+Hyundai H1,2010,11,22,120000,Octane,Individual,Automatic,1
+Hyundai H1 silver,2011,12,25,70000,Octane,Individual,Automatic,1
+Mitsubishi l200 Sportero,2019,57.5,65,12035,Diesel,Individual,Manual,1
+Mitsubishi l300,2012,7.6,25,86000,Petrol,Individual,Manual,1
+Mitsubishi Outlander Jeep,1997,10.9,12,190000,CNG,Individual,Manual,1
+Mitsubishi l300,2011,7.6,25,98000,Petrol,Individual,Manual,1
+Mitsubishi,2011,7.25,22,76580,Petrol,Individual,Manual,1
+Mitsubishi,1996,5.3,12,4000,Petrol,Individual,Manual,1
+Mitsubishi Jeep,1988,3.4,10,5000,Diesel,Individual,Manual,1
+Mitsubishi Pajero G,2007,12.5,25,80000,Octane,Individual,Manual,1
+Mitsubishi Pajero Leadership jeep,1990,9,12,150000,Diesel,Individual,Manual,1
+Mitsubishi l200 SUPER FRESH-2477 CC,2004,11.55,18,91000,Diesel,Individual,Manual,1
+Mitsubishi l200 DIESEL+MANUAL-2477CC,2004,10.25,18,94000,Diesel,Individual,Manual,1
+Mitsubishi Pajero,1996,8,12,60000,Petrol,Individual,Manual,1
+Nissan Sunny,1990,7.4,12,100000,Petrol,Individual,Manual,1
+Nissan Carryboy Double Cabin Pickup,2007,9,25,98000,CNG,Individual,Manual,1
+Nissan Patrol ,1999,10.5,15,98657,Diesel,Individual,Manual,1
+Nissan Patrol Diesel,1991,7.5,12,184831,Diesel,Individual,Manual,1
+Nissan X-Trail MOOD PREMIER AUTECH,2017,39.5,45,77000,Hybrid,Individual,Manual,1
+Nissan Sunny,2005,2.6,10,98000,Octane,Individual,Manual,1
+Nissan Carryboy,1998,4.8,8,273351,Diesel,Individual,Manual,1
+Nissan Carryboy,2010,6.9,12,87000,Diesel,Individual,Manual,1
+Nissan Carryboy ,2016,26,25,150000,Diesel,Individual,Manual,1
+Nissan Navara D22 8k tax,2000,4.5,15,130000,Diesel,Individual,Manual,1
+Nissan Carryboy,2011,11.2,15,74000,Diesel,Individual,Manual,1
+Nissan Navara,2012,16.5,25,65000,Diesel,Individual,Manual,1
+Nissan Patrol  ,1993,10.5,12,90000,Petrol,Individual,Manual,1
+Nissan X-Trail,2010,18.9,25,65000,Hybrid,Individual,Manual,1
+Kia Picanto Ex,2005,6.65,6,76328,Octane,Individual,Automatic,1
+Kia Sportage Hard Jeep,2012,16.9,18,71741,Octane,Individual,Automatic,1
+Kia Sportage,2011,15.8,15,400000,Octane,Individual,Automatic,1
+Kia Soul Maroon interior,2018,21.8,28,18000,Octane,Individual,Automatic,1
+Kia Sportage Sunroof Octne Drive,2012,15,18,53000,Octane,Individual,Automatic,1
+Kia Sportage,2006,7.5,10,90000,Octane,Individual,Automatic,1
+Kia Sportage with Sunroof,2018,26.5,30,22000,Octane,Individual,Automatic,1
+Kia Sportage Fresh,2009,7.5,12,95000,Petrol,Individual,Automatic,1
+Kia Sorento manual gear,2006,6.2,12,79000,Octane,Individual,Automatic,1
+Kia Sportage G Sunroof,2006,9.3,12,67000,Octane,Individual,Automatic,1
+Kia Sportage G,2011,22.8,15,48500,Octane,Individual,Automatic,1
+Kia Sportage Sunroof,2006,9.8,12,78000,Octane,Individual,Automatic,1
+Kia Picanto,2004,4.5,5,50000,Octane,Individual,Automatic,1
+Toyota Aqua G Edition,2013,12.45,25,62000,Hybrid,Individual,Automatic,1
+Toyota Starlet Carat,2013,4.9,25,174389,Octane,Individual,Automatic,1
+Honda Vezel Z Hybrid,2015,20.5,35,85000,Hybrid,Individual,Automatic,1
+Toyota Corolla Axio Silver Color,2014,17.9,30,57031,Octane,Individual,Automatic,1
+Honda Accord,2015,35.5,25,38000,Hybrid,Individual,Automatic,1
+Mitsubishi Outlander,2012,25,25,81000,Octane,Individual,Automatic,1
+Honda Accord,2011,29,30,110000,Octane,Individual,Automatic,1
+Mitsubishi Outlander,2011,20.9,25,56000,Octane,Individual,Automatic,1
+Toyota Aqua Car,2017,18,30,12000,Octane,Individual,Automatic,1
+Toyota Allion  A,2005,14.2,25,95000,Octane,Individual,Automatic,1
+Toyota X Fielder,2010,13.9,25,78000,Petrol,Individual,Automatic,1
+Toyota Axio X,2012,16.8,25,100000,Octane,Individual,Automatic,1
+Toyota X Fielder,2004,11.65,15,87000,Petrol,Individual,Automatic,1
+Toyota Passo,2009,9.9,16,56000,Petrol,Individual,Automatic,1
+Toyota Premio G Edition,2005,13.4,20,100000,Octane,Individual,Automatic,1
+Toyota Noah X,2004,13.2,15,105554,CNG,Individual,Automatic,1
+Toyota X Corolla,2004,11.5,15,200000,Octane,Individual,Automatic,1
+Toyota Aqua,2013,12.6,25,96000,Octane,Individual,Automatic,1
+Toyota Aqua G Push,2013,12.9,25,47000,Octane,Individual,Automatic,1
+Proton Saga,2011,6.2,12,73000,Octane,Individual,Automatic,1
+Toyota Probox White,2004,7,15,90000,Octane,Individual,Automatic,1
+Toyota Axio X Grade Silver Car,2015,22.5,30,65400,Octane,Individual,Automatic,1
+Toyota Prius S Safety,2018,31.8,40,14000,Hybrid,Individual,Automatic,1
+Toyota Hiace Super GL,2018,40.5,45,36000,Octane,Individual,Automatic,1
+Mazda Axela,2012,14.9,25,76000,Octane,Individual,Automatic,1
+Range Rover Evoque,2012,63,90,23000,Octane,Individual,Automatic,1
+Nissan X Trail,2012,23,35,38000,Octane,Individual,Automatic,1
+Toyota Yaris Cross,2022,45.5,40,2000,Octane,Individual,Automatic,1
+Haval H,2019,53,70,67000,Octane,Individual,Automatic,1
+Toyota Corolla Cross,2022,43,45,7500,Octane,Individual,Automatic,1
+Toyota Corolla Cross Z,2022,44,50,9000,Octane,Individual,Automatic,1
+Nissan X Trail Hybrid,2016,33.5,40,104000,Octane,Individual,Automatic,1
+Mitsubishi Outlander Roadest,2011,24.5,30,26000,Octane,Individual,Automatic,1
+Nissan X Trail New Shape,2010,19.9,30,71000,Octane,Individual,Automatic,1
+Toyota Axio X Hybrid,2015,17.9,30,65000,Hybrid,Individual,Automatic,1
+Toyota Allion A,2007,17.15,25,56000,Octane,Individual,Automatic,1
+Toyota Succeed,2004,7.3,15,121000,Octane,Individual,Automatic,1
+Toyota Corolla X Edition,2006,12.45,20,86000,Octane,Individual,Automatic,1
+Toyota Probox,2006,7,15,98700,Octane,Individual,Automatic,1
+Toyota Aqua Hybrid Car,2014,16,25,76500,Hybrid,Individual,Automatic,1
+Toyota Probox M Crop,2003,7.65,12,85000,CNG,Individual,Automatic,1
+Toyota X Fielder,2005,11.5,18,94000,CNG,Individual,Automatic,1
+Toyota Probox Dx,2005,7.65,15,80000,CNG,Individual,Automatic,1
+Toyota X Corolla,2003,12.5,18,150000,Petrol,Individual,Automatic,1
+Toyota Allion G,2005,14.5,20,110000,Octane,Individual,Automatic,1
+Toyota Corolla AE,1993,5.8,8,85000,Octane,Individual,Automatic,0
+Toyota X Corolla White Color,2002,9.45,18,131000,Octane,Individual,Automatic,1
+Toyota LiteAce GL,2010,6.9,20,58000,Octane,Individual,Automatic,1
+Toyota Premio G,2006,15.8,22,80000,Octane,Individual,Automatic,1
+Toyota X Corolla,2001,8.95,15,97000,Octane,Individual,Automatic,1
+Toyota Carina GT,1998,6.9,12,292000,CNG,Individual,Automatic,1
+Toyota bB G,2011,13.5,20,70000,Octane,Individual,Automatic,0
+Toyota X Corolla,2003,9.5,18,89000,Octane,Individual,Automatic,1
+Toyota Allion,2013,19.5,25,200000,Octane,Individual,Automatic,1
+Toyota Fielder Hybrid,2013,17.6,30,100000,Octane,Individual,Automatic,1
+Honda Vezel RS Blue,2016,25.5,40,95000,Octane,Individual,Automatic,1
+Honda CR V,2012,27,30,67000,Octane,Individual,Automatic,1
+Toyota Corolla X Pearl Color,2005,12,20,85000,CNG,Individual,Automatic,1
+Toyota Axio Fielder Hybrid,2013,16.8,30,120000,Hybrid,Individual,Automatic,1
+Toyota Passo,2006,7.49,12,89000,Petrol,Individual,Automatic,1
+Ford Ecosport,2015,17,25,78000,Octane,Individual,Automatic,1
+Toyota Axio Red Wine Color,2009,11,20,133500,CNG,Individual,Automatic,1
+Nissan March,2003,5,8,100000,Octane,Individual,Automatic,1
+Toyota Raum,2001,6.5,8,189000,CNG,Individual,Automatic,1
+Toyota Axio,2014,16.8,25,55000,Octane,Individual,Automatic,1
+Toyota Corolla,2004,10.1,18,136000,Octane,Individual,Automatic,1
+Toyota Axio,2006,12.85,18,60000,Petrol,Individual,Automatic,1
+Toyota Aqua,2013,12.5,25,62000,Octane,Individual,Automatic,1
+Toyota Corolla,2002,8.6,15,10000,Petrol,Individual,Automatic,1
+Toyota Corolla X,2003,8.7,18,70000,Octane,Individual,Automatic,1
+Toyota Ractis G,2010,12,18,112000,Octane,Individual,Automatic,1
+Toyota Corolla X,2004,10.8,18,40000,Octane,Individual,Automatic,1
+Mercedes Benz B,2009,20,22,25000,Octane,Individual,Automatic,1
+Toyota Raum,2004,9.85,12,89000,Octane,Individual,Automatic,1
+Toyota Allion G,2008,14.6,20,66000,Octane,Individual,Automatic,1
+Toyota Corolla Axio White Color Car,2014,17.5,25,36000,Octane,Individual,Automatic,1
+Toyota C HR Hybrid,2017,29.5,40,16000,Hybrid,Individual,Automatic,1
+Toyota Probox Succeed,2003,7,12,10000,CNG,Individual,Automatic,1
+Toyota Wish,2012,18,22,77000,Octane,Individual,Automatic,1
+Toyota Axio X Hybrid,2014,16.8,30,35000,Hybrid,Individual,Automatic,1
+Toyota Avanza G,2010,11.5,18,150000,Octane,Individual,Manual,1
+Toyota Axio,2009,13.5,20,133500,Octane,Individual,Automatic,1
+Hyundai Tucson,2012,19.85,25,59000,Octane,Individual,Automatic,1
+Toyota Axio G WXB,2018,31,40,22000,Octane,Individual,Automatic,1
+Mitsubishi Lancer GLX,2010,9.2,18,136000,Octane,Individual,Automatic,1
+Toyota Axio X Auction Sheet White,2017,23.5,30,36000,Octane,Individual,Automatic,1
+Toyota Axio G Hybrid,2016,18.9,35,57300,Hybrid,Individual,Automatic,1
+Honda Vezel,2014,19,35,57000,Hybrid,Individual,Automatic,1
+Toyota Allion Silver,2007,13.8,25,198000,Octane,Individual,Automatic,1
+Toyota Probox,2005,7.2,15,92000,Petrol,Individual,Automatic,0
+Toyota Probox,2004,6.25,15,90000,Octane,Individual,Automatic,0
+Honda Vezel Hybrid,2014,17.8,35,57000,Hybrid,Individual,Automatic,1
+Honda Airwave,2006,13.5,18,80000,Octane,Individual,Automatic,1
+Toyota Allion A,2003,12.5,18,300000,Octane,Individual,Automatic,1
+Toyota Corolla G,2006,13.3,20,79000,Octane,Individual,Automatic,1
+Suzuki Maruti,2007,2.5,8,50000,Petrol,Individual,Manual,0
+Honda Grace EX Hybrid,2015,21.5,30,87000,Octane,Individual,Automatic,0
+Toyota Corolla X,2005,12.9,20,167870,Octane,Individual,Automatic,1
+Mitsubishi Lancer GLX Metallic Red,2010,8.75,18,136000,Octane,Individual,Automatic,0
+Toyota Hiace Grand Cabin Silver Car,2017,29.5,35,33000,Octane,Individual,Automatic,1
+Honda Civic FC Car,2017,29,35,89000,Octane,Individual,Automatic,1
+Honda Civic FC Car,2018,37.05,40,59000,Octane,Individual,Automatic,1
+Toyota Crown Advance RS,2018,59,65,40000,Hybrid,Individual,Automatic,1
+Toyota Voxy V Hybrid ,2018,22.18,45,45000,Octane,Individual,Automatic,1
+Nissan X Trail Blue New Shape,2017,31,45,36000,Octane,Individual,Automatic,1
+Toyota Harrier Black Color,2016,43.5,50,29000,CNG,Individual,Automatic,1
+Nissan X Trail Hybrid,2018,44.5,50,102000,Hybrid,Individual,Automatic,1
+Toyota Allion A Car,2019,24,35,32000,Octane,Individual,Automatic,1
+Toyota Allion G Plus,2016,12.5,35,100000,Octane,Individual,Automatic,1
+Toyota Premio F EX Pearl Color,2002,14.2,40,95000,Octane,Individual,Automatic,0
+Nissan X Trail,2012,22.7,60,60000,Hybrid,Individual,Automatic,1
+Nissan X Trail,2013,23.5,65,63000,Hybrid,Individual,Automatic,1
+Nissan Sylphy Bluebird,2003,8.5,15,120000,Octane,Individual,Automatic,0
+Toyota Noah KR,2003,8.6,15,200000,Octane,Individual,Automatic,1
+Toyota Hiace Super GL,2005,11.99,25,145000,Octane,Individual,Automatic,1
+Toyota Probox Silver,2003,7.2,15,81000,CNG,Individual,Automatic,1
+Toyota Platz,2000,5.3,8,225000,Petrol,Individual,Automatic,1
+Honda CR V Black,2012,27.8,30,59000,Octane,Individual,Automatic,1
+Maruti Suzuki,2005,2,8,8000,Octane,Individual,Manual,1
+Toyota C   HR G   LED 2017 Red Wine,2017,31.2,40,65000,Hybrid,Individual,Automatic,1
+Toyota C   HR G   LED Package,2017,31.6,45,95000,Octane,Individual,Automatic,1
+Toyota Vitz,2001,5.5,15,50000,CNG,Individual,Automatic,1
+Toyota Probox super GL,2011,8.85,20,56000,Petrol,Individual,Automatic,1
+Toyota Axio Pearl,2013,17.8,25,85000,Petrol,Individual,Automatic,1
+Totota Corolla X,2005,12.5,20,167870,Octane,Individual,Automatic,1
+Toyota Premio F,2002,12.9,20,154000,Petrol,Individual,Automatic,1
+Toyota Corolla G,2003,10.7,20,90000,Octane,Individual,Automatic,1
+Nissan Sunny,2004,5.55,15,104212,Octane,Individual,Automatic,1
+Honda Civic,2008,13,30,130000,Octane,Individual,Automatic,1
+Toyota Allion G plus,2014,26.1,25,39000,Octane,Individual,Automatic,1
+Toyota Rush,2007,15.5,35,35270,Octane,Individual,Automatic,1
+Toyota Axio,2007,12,25,67606,CNG,Individual,Automatic,1
+Nissan Sunny,2004,5.65,15,104212,Octane,Individual,Automatic,1
+Toyota Allion G,2013,18.7,25,60000,Octane,Individual,Automatic,1
+Nissan X   Trail,2015,23.5,30,90000,Octane,Individual,Automatic,1
+Toyota Allion A,2002,12.4,25,100000,CNG,Individual,Automatic,1
+Toyota Corolla X,2005,11.95,20,167870,CNG,Individual,Automatic,1
+Kia Sportage G Sunroof,2006,9.3,12,67000,Octane,Individual,Automatic,1
+Kia Sportage G,2011,22.8,15,48500,Octane,Individual,Automatic,1
+Kia Sportage Sunroof,2006,9.8,12,78000,Octane,Individual,Automatic,1
+Kia Picanto,2004,4.5,5,50000,Octane,Individual,Automatic,1
+Toyota Aqua G Edition,2013,12.45,25,62000,Hybrid,Individual,Automatic,1
+Toyota Starlet Carat,2013,4.9,25,174389,Octane,Individual,Automatic,1
+Honda Vezel Z Hybrid,2015,20.5,35,85000,Hybrid,Individual,Automatic,1
+Toyota Corolla Axio Silver Color,2014,17.9,30,57031,Octane,Individual,Automatic,1
+Honda Accord,2015,35.5,25,38000,Hybrid,Individual,Automatic,1
+Mitsubishi Outlander,2012,25,25,81000,Octane,Individual,Automatic,1
+Honda Accord,2011,29,30,110000,Octane,Individual,Automatic,1
+Nissan X-Trail MOOD PREMIER AUTECH,2017,39.5,45,77000,Hybrid,Individual,Manual,1
+Nissan Sunny,2005,2.6,10,98000,Octane,Individual,Manual,1
+Nissan Carryboy,1998,4.8,8,273351,Diesel,Individual,Manual,1
+Nissan Carryboy,2010,6.9,12,87000,Diesel,Individual,Manual,1
+Nissan Carryboy ,2016,26,25,150000,Diesel,Individual,Manual,1
+Nissan Navara D22 8k tax,2000,4.5,15,130000,Diesel,Individual,Manual,1
+Nissan Carryboy,2011,11.2,15,74000,Diesel,Individual,Manual,1
+Nissan Navara,2012,16.5,25,65000,Diesel,Individual,Manual,1
+Nissan Patrol  ,1993,10.5,12,90000,Petrol,Individual,Manual,1
+Nissan X-Trail,2010,18.9,25,65000,Hybrid,Individual,Manual,1
+Kia Picanto Ex,2005,6.65,6,76328,Octane,Individual,Automatic,1
+Kia Sportage Hard Jeep,2012,16.9,18,71741,Octane,Individual,Automatic,1
+Kia Sportage,2011,15.8,15,400000,Octane,Individual,Automatic,1
+Nissan X-Trail ,2015,38.25,70,49000,Octane,Individual,Automatic,1
+Nissan X Trail,2011,21.5,60,121000,Octane,Individual,Automatic,1
+Nissan X Trail,2015,27.7,80,38000,Octane,Individual,Automatic,1
+Nissan Wingroad,2004,7.5,15,98000,Hybrid,Individual,Automatic,0
+Nissan Cefiro,2004,13.5,20,97000,Octane,Individual,Automatic,0
+Nissan Juke G PKG PUSH START,2011,14.3,25,55000,Octane,Individual,Automatic,1
+Nissan Dualis Moon Roof,2007,16.8,20,67000,Octane,Individual,Automatic,0
+Nissan Bluebird OCTANE,2006,13.5,15,61000,Octane,Individual,Automatic,0
+Nissan X-Trail Hard Jeep Duel Ac,2011,22.3,60,38000,Octane,Individual,Automatic,1
+Nissan Bluebird Sylphy Octane drive,2006,13.2,15,73000,Octane,Individual,Automatic,0
+Nissan X-Trail 7 Sitter,2015,35.5,70,43000,Octane,Individual,Automatic,1
+Mitsubishi Pajero Exceed V,2006,19,20,139000,Octane,Individual,Automatic,1
+Toyota Esquire Mica Car,2018,44,45,39000,Octane,Individual,Automatic,1
+Volkswagen Passat,2014,26.5,30,26000,Octane,Individual,Automatic,1
+Mitsubishi Outlander Gray,2008,17,22,178000,Octane,Individual,Automatic,1
+Mitsubishi ASX,2005,8.5,20,178000,Octane,Individual,Automatic,1
+Toyota Esquire,2018,44,50,40000,Octane,Dealer,Automatic,1
+Toyota Hiace,2002,7,20,169000,Octane,Individual,Automatic,1
+Mitsubishi Outlander,2017,39.5,45,78000,Octane,Individual,Automatic,1
+Toyota Axio X,2017,24.5,30,55000,Hybrid,Individual,Automatic,1
+Toyota Aqua Silver,2017,17.5,25,61000,Hybrid,Individual,Automatic,1
+Honda CR V,2018,47.5,55,59000,Hybrid,Dealer,Automatic,1
+Toyota Fielder G,2017,21.8,35,35000,Octane,Individual,Automatic,1
+Toyota Rush,2010,15.7,20,89000,CNG,Individual,Automatic,1
+Toyota Voxy G Hybrid,2017,25,45,31000,Octane,Dealer,Automatic,1
+Toyota Raum,2005,9.1,15,120000,Octane,Individual,Automatic,1
+Toyota Cross Z Hybrid,2021,45.8,55,14000,Octane,Individual,Automatic,1
+Toyota Prius S Pearl Car,2017,26.8,35,34000,Hybrid,Individual,Automatic,1
+Toyota Esquire Gi Premium Pearl,2017,35.5,50,67000,Hybrid,Individual,Automatic,1
+Toyota Prius S,2017,28.8,35,42000,Hybrid,Individual,Automatic,1
+Toyota Axio X Auto Transmission,2017,20.5,30,36500,Octane,Individual,Automatic,1
+Toyota Noah X Hybrid,2017,27.6,45,55000,Octane,Individual,Automatic,1
+Toyota Fielder New Shape,2014,17.5,30,56000,Octane,Individual,Automatic,1
+Toyota Axio G Edition,2011,15.5,25,72344,CNG,Individual,Automatic,1
+Toyota C HR G Hybrid,2017,30.75,40,54639,Hybrid,Individual,Automatic,1
+Toyota Ractis G Edition,2011,14.45,20,88000,Octane,Individual,Automatic,1
+Honda Grace EX Mica Blue Color,2018,20.5,25,71000,Octane,Individual,Automatic,1
+Toyota Axio X Grade Silver Car,2015,22.5,30,65400,Octane,Individual,Automatic,1
+Toyota Prius S Safety,2018,31.8,40,14000,Hybrid,Individual,Automatic,1
+Toyota Hiace Super GL,2018,40.5,45,36000,Octane,Individual,Automatic,1
+Mazda Axela,2012,14.9,25,76000,Octane,Individual,Automatic,1
+Range Rover Evoque,2012,63,90,23000,Octane,Individual,Automatic,1
+Nissan X Trail,2012,23,35,38000,Octane,Individual,Automatic,1
